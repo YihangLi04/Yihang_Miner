@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|d:\\hub\\creative\\game_projects\\miner48\\yihang_miner\\miner49er\\simpleminer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|solutionrelative:miner49er\\simpleminer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|d:\\hub\\creative\\game_projects\\miner48\\yihang_miner\\miner49er\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|solutionrelative:miner49er\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|d:\\hub\\creative\\game_projects\\miner48\\yihang_miner\\miner49er\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|solutionrelative:miner49er\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|d:\\hub\\creative\\game_projects\\miner48\\yihang_miner\\fsa\\fsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|solutionrelative:fsa\\fsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|d:\\hub\\creative\\game_projects\\miner48\\yihang_miner\\fsa\\impl\\transitionimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|solutionrelative:fsa\\impl\\transitionimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|d:\\hub\\creative\\game_projects\\miner48\\yihang_miner\\fsa\\impl\\stateimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|solutionrelative:fsa\\impl\\stateimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|d:\\hub\\creative\\game_projects\\miner48\\yihang_miner\\fsa\\impl\\fsaimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|solutionrelative:fsa\\impl\\fsaimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|d:\\hub\\creative\\game_projects\\miner48\\yihang_miner\\miner49er\\miner49er.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|solutionrelative:miner49er\\miner49er.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|d:\\hub\\creative\\game_projects\\miner48\\yihang_miner\\fsa\\fsa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|solutionrelative:fsa\\fsa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|d:\\hub\\creative\\game_projects\\miner48\\yihang_miner\\fsa\\fsa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E9A81AD0-8114-483C-8975-8F744BD7FAC3}|FSA\\FSA.csproj|solutionrelative:fsa\\fsa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|d:\\hub\\creative\\game_projects\\miner48\\yihang_miner\\miner49er\\miner49er.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FC8F961C-5E95-4FF7-A40C-A343F38AE1F7}|Miner49er\\Miner49er.csproj|solutionrelative:miner49er\\miner49er.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Program Files\\Microsoft Visual Studio\\2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.311\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransitionImpl.cs",
+              "DocumentMoniker": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\FSA\\impl\\TransitionImpl.cs",
+              "RelativeDocumentMoniker": "FSA\\impl\\TransitionImpl.cs",
+              "ToolTip": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\FSA\\impl\\TransitionImpl.cs",
+              "RelativeToolTip": "FSA\\impl\\TransitionImpl.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwEMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:00:18.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StateImpl.cs",
+              "DocumentMoniker": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\FSA\\impl\\StateImpl.cs",
+              "RelativeDocumentMoniker": "FSA\\impl\\StateImpl.cs",
+              "ToolTip": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\FSA\\impl\\StateImpl.cs",
+              "RelativeToolTip": "FSA\\impl\\StateImpl.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:00:12.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FSAImpl.cs",
+              "DocumentMoniker": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\FSA\\impl\\FSAImpl.cs",
+              "RelativeDocumentMoniker": "FSA\\impl\\FSAImpl.cs",
+              "ToolTip": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\FSA\\impl\\FSAImpl.cs",
+              "RelativeToolTip": "FSA\\impl\\FSAImpl.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T23:00:06.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FSA.cs",
+              "DocumentMoniker": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\FSA\\FSA.cs",
+              "RelativeDocumentMoniker": "FSA\\FSA.cs",
+              "ToolTip": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\FSA\\FSA.cs",
+              "RelativeToolTip": "FSA\\FSA.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T22:57:41.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleMiner.cs",
+              "DocumentMoniker": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\Miner49er\\SimpleMiner.cs",
+              "RelativeDocumentMoniker": "Miner49er\\SimpleMiner.cs",
+              "ToolTip": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\Miner49er\\SimpleMiner.cs",
+              "RelativeToolTip": "Miner49er\\SimpleMiner.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwDgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T22:57:35.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\Miner49er\\Program.cs",
+              "RelativeDocumentMoniker": "Miner49er\\Program.cs",
+              "ToolTip": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\Miner49er\\Program.cs",
+              "RelativeToolTip": "Miner49er\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T22:28:57.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Miner.cs",
+              "DocumentMoniker": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\Miner49er\\Miner.cs",
+              "RelativeDocumentMoniker": "Miner49er\\Miner.cs",
+              "ToolTip": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\Miner49er\\Miner.cs",
+              "RelativeToolTip": "Miner49er\\Miner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T22:28:55.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FSA.csproj",
+              "DocumentMoniker": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\FSA\\FSA.csproj",
+              "RelativeDocumentMoniker": "FSA\\FSA.csproj",
+              "ToolTip": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\FSA\\FSA.csproj",
+              "RelativeToolTip": "FSA\\FSA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T19:56:43.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FSA",
+              "DocumentMoniker": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\FSA\\FSA.csproj",
+              "RelativeDocumentMoniker": "FSA\\FSA.csproj",
+              "ToolTip": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\FSA\\FSA.csproj",
+              "RelativeToolTip": "FSA\\FSA.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T19:56:58.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAjwKoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-17T19:52:38.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\Program Files\\Microsoft Visual Studio\\2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\Program Files\\Microsoft Visual Studio\\2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAKAEAAAAAAAAAAD4v2AHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-17T19:52:34.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Miner49er.csproj",
+              "DocumentMoniker": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\Miner49er\\Miner49er.csproj",
+              "RelativeDocumentMoniker": "Miner49er\\Miner49er.csproj",
+              "ToolTip": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\Miner49er\\Miner49er.csproj",
+              "RelativeToolTip": "Miner49er\\Miner49er.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T19:48:20.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Miner49er",
+              "DocumentMoniker": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\Miner49er\\Miner49er.csproj",
+              "RelativeDocumentMoniker": "Miner49er\\Miner49er.csproj",
+              "ToolTip": "D:\\Hub\\Creative\\Game_Projects\\Miner48\\Yihang_Miner\\Miner49er\\Miner49er.csproj",
+              "RelativeToolTip": "Miner49er\\Miner49er.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-17T19:50:54.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAjwKoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-17T19:49:06.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
