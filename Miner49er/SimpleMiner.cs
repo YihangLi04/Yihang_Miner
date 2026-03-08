@@ -100,8 +100,8 @@ namespace Miner49er
         /// </summary>
         private void depositGold(FSA fsa)
         {
-            gold -= 1;
-            bank += 1;
+            bank += gold;
+            gold = 0;
             Console.WriteLine("deposit a gold nugget");
         }
 
@@ -127,7 +127,7 @@ namespace Miner49er
             thirst++;
         }
 
-        private Boolean pocketsFull(FSA fsa) => gold >= 5;
+        private Boolean pocketsFull(FSA fsa) => gold >= 15;
 
         private Boolean pocketsNotEmpty(FSA fsa) => gold > 0;
 
